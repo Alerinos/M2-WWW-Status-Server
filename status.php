@@ -2,7 +2,7 @@
 
 class Server {
 
-    public $dir = '/usr/home/mt2';
+    public string $dir = '/usr/home/mt2';
 
     private $connect;
 
